@@ -18,10 +18,10 @@
 ### Capturas de tela 
 <br>
 Preview: <br>
-<img src="./src/design/desktop-design.jpg" width="100%">
+<img src="./design/desktop-design.jpg" width="100%">
 <br>
 Preview mobile: <br>
-<img src="./src/design/mobile-design.jpg" width="50%" height="50%">
+<img src="./design/mobile-design.jpg" width="50%" height="50%">
 <br><br>
 
 ### Links 
