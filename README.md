@@ -27,7 +27,7 @@ Preview mobile: <br>
 ### Links 
 <ul>
 <li><a href="https://github.com/fernanda-nunes/profile-card">Repositório</a></li>
-<li><a href="https://fernanda-nunes.github.io/huddle-landing-page/" target="_blank">Site ao vivo</a></li>
+<li><a href="https://fernanda-nunes.github.io/profile-card/" target="_blank">Site ao vivo</a></li>
 </ul>
 
 ## O que eu aprendi 
